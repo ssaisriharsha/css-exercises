@@ -1,0 +1,18 @@
+.color {
+    background-color: red;
+}
+
+.ano {
+    font-size: large;
+}
+
+#one {
+    color: blue;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#two {
+    font-weight: bold;
+    background-color: green;
+}
