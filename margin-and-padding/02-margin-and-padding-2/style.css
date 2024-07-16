@@ -10,18 +10,31 @@ body {
 }
 
 .title {
+  height: 50px;
+  padding-top: 10px;
   background: #e3f4ff;
+  margin: 8px;
 }
 
 .content {
+  margin-bottom: 10px;
   background: #e3f4ff;
+  margin: 8px;
 }
 
 .button-container {
+  text-align: center;
   background: #e3f4ff;
+  margin: 8px;
 }
 
 button {
   background: white;
-  border: 1px solid #eee;
+  /* border: 1px solid #eee; */
+  display: block;
+  padding: 15px;
+  padding-right: 25px;
+  padding-left: 25px;
+  margin-left: 130px;
+  border: none;
 }
